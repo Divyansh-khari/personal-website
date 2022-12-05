@@ -154,12 +154,10 @@ p {
 .navStyle ul li {
     display: inline-block;
     margin: 0 5px;
-    float: initial;
+    
 }
 
-.navStyle ul li:first-child {
-	/*margin:0px;*/;
-}
+
 
 .navStyle ul li:last-child {
     margin: 0 0 0 23px;
@@ -365,7 +363,7 @@ a.read_more:hover {
 }
 
 .service-list-col1 i {
-    display:;
+    
     color: #888;
     font-size: 19px;
     font-style: normal;
@@ -1159,7 +1157,7 @@ margin: 0 18px;
 .page_section.team{
 padding: 40px 0;
 }
-, #clients {
+ #clients {
 padding: 40px 0;
 }
 .client_logos ul li {
@@ -1177,9 +1175,7 @@ display: inline-block;
 .contact_section{
 margin:0;
 }
-h2, .contact_section h2 {
-font-size: 30px;
-}
+
 .page_section.contact {
 padding: 60px 0 50px;
 }
