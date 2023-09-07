@@ -10,7 +10,9 @@ Author: http://webthemez.com
 ul {
     list-style: none;
 }
-
+.port-img{
+    height: 50%;
+}
 
 .figure {
     margin: 0px;
